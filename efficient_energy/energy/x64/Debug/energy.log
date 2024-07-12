@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+E:\efficient_energy\energy\OOPcode.h(29,12): warning C4490: 'override': incorrect use of override specifier; 'EnergyUsageCalculator::getter1' does not match a base ref class method
+  (compiling source file 'MyForm.cpp')
+  E:\efficient_energy\energy\OOPcode.h(29,12):
+  'new' or 'override' are only allowed when a matching base method from a ref class exists
+  
+E:\efficient_energy\energy\OOPcode.h(33,12): warning C4490: 'override': incorrect use of override specifier; 'EnergyUsageCalculator::getter2' does not match a base ref class method
+  (compiling source file 'MyForm.cpp')
+  E:\efficient_energy\energy\OOPcode.h(33,12):
+  'new' or 'override' are only allowed when a matching base method from a ref class exists
+  
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  energy.vcxproj -> E:\efficient_energy\x64\Debug\energy.exe

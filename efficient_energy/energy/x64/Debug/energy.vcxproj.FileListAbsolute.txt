@@ -1,0 +1,22 @@
+C:\Users\D-ALI COMPUTER\source\repos\energy\energy\x64\Debug\energy.vcxproj.AssemblyReference.cache
+C:\Users\D-ALI COMPUTER\source\repos\energy\energy\x64\Debug\energy.MyForm.resources
+C:\Users\D-ALI COMPUTER\source\repos\energy\energy\x64\Debug\energy.vcxproj.GenerateResource.cache
+C:\Users\Abdul_Basit\Desktop\energy\energy\energy\x64\Debug\energy.vcxproj.AssemblyReference.cache
+C:\Users\Abdul_Basit\Desktop\energy\energy\energy\x64\Debug\energy.MyForm.resources
+C:\Users\Abdul_Basit\Desktop\energy\energy\energy\x64\Debug\energy.MyForm1.resources
+C:\Users\Abdul_Basit\Desktop\energy\energy\energy\x64\Debug\energy.vcxproj.GenerateResource.cache
+C:\Users\D-ALI COMPUTER\Desktop\energy\x64\Debug\energy.vcxproj.AssemblyReference.cache
+C:\Users\D-ALI COMPUTER\Desktop\energy\x64\Debug\energy.MyForm.resources
+C:\Users\D-ALI COMPUTER\Desktop\energy\x64\Debug\energy.vcxproj.GenerateResource.cache
+E:\last time\energy\x64\Debug\energy.vcxproj.AssemblyReference.cache
+E:\last time\energy\x64\Debug\energy.MyForm.resources
+E:\last time\energy\x64\Debug\energy.vcxproj.GenerateResource.cache
+C:\Users\D-ALI COMPUTER\Desktop\last time\energy\x64\Debug\energy.vcxproj.AssemblyReference.cache
+C:\Users\D-ALI COMPUTER\Desktop\last time\energy\x64\Debug\energy.MyForm.resources
+C:\Users\D-ALI COMPUTER\Desktop\last time\energy\x64\Debug\energy.vcxproj.GenerateResource.cache
+E:\codingwithowais\energy\x64\Debug\energy.vcxproj.AssemblyReference.cache
+E:\codingwithowais\energy\x64\Debug\energy.MyForm.resources
+E:\codingwithowais\energy\x64\Debug\energy.vcxproj.GenerateResource.cache
+E:\efficient_energy\energy\x64\Debug\energy.vcxproj.AssemblyReference.cache
+E:\efficient_energy\energy\x64\Debug\energy.MyForm.resources
+E:\efficient_energy\energy\x64\Debug\energy.vcxproj.GenerateResource.cache
